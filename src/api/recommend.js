@@ -5,7 +5,7 @@ export const recommend = [
         weight: '10斤/件',
         size: '90-130只',
         price: '400/件',
-        retail: 1,
+        retail: 0,
         images: [
             '/jpbjx/01.jpg',
             '/jpbjx/02.jpg',

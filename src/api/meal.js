@@ -2,7 +2,7 @@ export const meal = [
     {
         id: 100,
         name: '套餐A',
-        price: '298/件',
+        price: '198/件',
         retail: 0,
         images: [
             '/tc/01.jpg',
@@ -12,7 +12,7 @@ export const meal = [
     {
         id: 101,
         name: '套餐B',
-        price: '398/件',
+        price: '298/件',
         retail: 0,
         images: [
             '/tc/02.jpg',
@@ -22,7 +22,7 @@ export const meal = [
     {
         id: 102,
         name: '套餐C',
-        price: '518/件',
+        price: '398/件',
         retail: 0,
         images: [
             '/tc/03.jpg',
@@ -32,7 +32,7 @@ export const meal = [
     {
         id: 103,
         name: '套餐D',
-        price: '788/件',
+        price: '588/件',
         retail: 0,
         images: [
             '/tc/04.jpg',
@@ -42,7 +42,7 @@ export const meal = [
     {
         id: 104,
         name: '套餐E',
-        price: '1188/件',
+        price: '998/件',
         retail: 0,
         images: [
             '/tc/05.jpg',
@@ -52,7 +52,7 @@ export const meal = [
     {
         id: 105,
         name: '套餐F',
-        price: '1588/件',
+        price: '1288/件',
         retail: 0,
         images: [
             '/tc/06.jpg',

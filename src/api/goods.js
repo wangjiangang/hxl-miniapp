@@ -5,7 +5,7 @@ export const goods = [
         weight: '10斤/件',
         size: '90-130只',
         price: '400/件',
-        retail: 1,
+        retail: 0,
         images: [
             '/jpbjx/01.jpg',
             '/jpbjx/02.jpg',
@@ -20,11 +20,12 @@ export const goods = [
         weight: '10斤/件',
         price: '430/件',
         size: '90-120只',
-        retail: 1,
+        retail: 0,
         images: [
-            '/bjxbjx/01.jpg',
+            '/bjxbjx/05.jpg',
             '/bjxbjx/02.jpg',
             '/bjxbjx/03.jpg',
+            '/bjxbjx/04.jpg',
         ],
         desc: '北极甜虾，又称北极虾。因产自北极附近海域且虾有淡淡甜味而得名。北极甜虾捕捞于北大西洋海域，海上冷冻，保证新鲜。目前在中国、日本最有影响力的产地是北大西洋，特别是冰岛水产品，是捕获于北极附近海域的北极甜虾。生的北极甜虾是日本寿司的上乘用料。北极虾是个可爱的生物，刚出生的虾都是雄性，长到三四岁后变成雌性。豆黄蟹子麦黄鳖，北极虾也分时节，七八月的最佳，满头籽，又称桔头。就好比是螃蟹，顶盖肥的才好，所以头籽>无籽>腹籽，是这样个排序。'
     },
@@ -34,11 +35,11 @@ export const goods = [
         weight: '10斤/件',
         price: '500/件',
         size: '80-100只',
-        retail: 1,
+        retail: 0,
         images: [
-            '/bjxbjx/01.jpg',
             '/bjxbjx/02.jpg',
             '/bjxbjx/03.jpg',
+            '/bjxbjx/04.jpg',
         ],
         desc: '北极甜虾，又称北极虾。因产自北极附近海域且虾有淡淡甜味而得名。北极甜虾捕捞于北大西洋海域，海上冷冻，保证新鲜。目前在中国、日本最有影响力的产地是北大西洋，特别是冰岛水产品，是捕获于北极附近海域的北极甜虾。生的北极甜虾是日本寿司的上乘用料。北极虾是个可爱的生物，刚出生的虾都是雄性，长到三四岁后变成雌性。豆黄蟹子麦黄鳖，北极虾也分时节，七八月的最佳，满头籽，又称桔头。就好比是螃蟹，顶盖肥的才好，所以头籽>无籽>腹籽，是这样个排序。'
     },
@@ -204,7 +205,7 @@ export const goods = [
         id: 14,
         name: '底播种即食海参',
         weight: '1斤/件',
-        price: '350/件',
+        price: '480/件',
         retail: 0,
         images: [
             '/dbzjshs/01.jpg',
@@ -413,7 +414,7 @@ export const goods = [
     {
         id: 100,
         name: '套餐A',
-        price: '298/件',
+        price: '198/件',
         retail: 0,
         images: [
             '/tc/01.jpg',
@@ -423,7 +424,7 @@ export const goods = [
     {
         id: 101,
         name: '套餐B',
-        price: '398/件',
+        price: '298/件',
         retail: 0,
         images: [
             '/tc/02.jpg',
@@ -433,7 +434,7 @@ export const goods = [
     {
         id: 102,
         name: '套餐C',
-        price: '518/件',
+        price: '398/件',
         retail: 0,
         images: [
             '/tc/03.jpg',
@@ -443,7 +444,7 @@ export const goods = [
     {
         id: 103,
         name: '套餐D',
-        price: '788/件',
+        price: '588/件',
         retail: 0,
         images: [
             '/tc/04.jpg',
@@ -453,7 +454,7 @@ export const goods = [
     {
         id: 104,
         name: '套餐E',
-        price: '1188/件',
+        price: '998/件',
         retail: 0,
         images: [
             '/tc/05.jpg',
@@ -463,7 +464,7 @@ export const goods = [
     {
         id: 105,
         name: '套餐F',
-        price: '1588/件',
+        price: '1288/件',
         retail: 0,
         images: [
             '/tc/06.jpg',
